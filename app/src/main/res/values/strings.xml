@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PrefereceFragment</string>
+    <string name="pref_inline_title">In-line preferences</string>
+    <string name="pref_dlgbs_title">Dialog-based preferences</string>
+    <string name="pref_lnh_title">Launch preferences</string>
+    <string name="pref_att_title">Preference attributes</string>
+    <string name="pref_sync">Checkbox preferece</string>
+    <string name="pref_sync_summ">This is a checkbox</string>
+    <string name="pref_syncConnectionType">List preference</string>
+    <string name="pref_sc">Screen preference</string>
+    <string name="pref_sc_summ">Shows another screen of preferences</string>
+    <string name="pref_sc_to">Toggle preference</string>
+    <string name="pref_sc_to_summ">Preference that is on the next screen but same hierarchy</string>
+    <string name="pref_web_page">Intent preference</string>
+    <string name="pref_web_page_summ">Launches an Activity from an Intent</string>
+    <string name="pref_par">Parent checkbox preferece</string>
+    <string name="pref_par_summ">This is visually a parent</string>
+    <string name="pref_ch">Child checkbox preferece</string>
+    <string name="pref_ch_summ">This is visually a child</string>
+    <string name="pref_ls">List preference</string>
+    <string name="pref_ls_summ">An example that users a lise dialog</string>
+    <string name="pref_ed">Edit text preference</string>
+    <string name="pref_ed_summ">An example that uses an edit text dialog</string>
+    <string name="pref_ed_dlg">Enter your favorite animal</string>
+</resources>
